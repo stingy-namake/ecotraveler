@@ -15,39 +15,48 @@ const AttractionCard = ({ name, description, image, type }) => {
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: '#fff',
+    backgroundColor: '#112240', // Azul escuro
     borderRadius: 12,
     padding: 16,
     marginVertical: 10,
     alignItems: 'center',
-    shadowColor: '#000',
+    shadowColor: '#64ffda',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
-    shadowRadius: 6,
-    elevation: 3,
+    shadowRadius: 8,
+    elevation: 5,
+    width: '100%',
+    borderWidth: 1,
+    borderColor: '#233554', 
   },
   type: {
     fontSize: 12,
     fontWeight: 'bold',
-    color: '#2E8B57',
+    color: '#64ffda', 
     marginBottom: 8,
+    alignSelf: 'flex-start',
+    letterSpacing: 1,
   },
   image: {
     width: '100%',
     height: 180,
     borderRadius: 8,
     marginBottom: 12,
+    borderWidth: 2,
+    borderColor: '#233554', 
   },
   name: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#1C3D1C',
+    color: '#ccd6f6',
     marginBottom: 8,
+    textAlign: 'center',
   },
   description: {
     fontSize: 14,
-    color: '#555',
-    textAlign: 'center',
+    color: '#a8b2d1', 
+    textAlign: 'justify',
+    lineHeight: 20,
   },
 });
 
