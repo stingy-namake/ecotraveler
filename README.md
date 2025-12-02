@@ -5,7 +5,7 @@
 - 37023114 JOAB RANIEL RODRIGUES
 
 ## Título do Projeto
-EcoTraveler - Protótipo de Aplicativo Informativo sobre Turismo Sustentável!
+EcoTravel - Protótipo de Aplicativo Informativo sobre Turismo Sustentável!
 
 ## Descrição do Estudo de Caso
 A empresa **EcoTravel**, especializada em consultoria de roteiros ecológicos, deseja lançar um protótipo simples de aplicativo informativo que apresente ao usuário atrações de turismo sustentável em diferentes regiões do mundo. O objetivo é permitir que o usuário visualize informações básicas sobre uma atração, veja uma imagem ilustrativa e possa interagir com botões que alteram o conteúdo exibido.
