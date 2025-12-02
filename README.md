@@ -1,8 +1,8 @@
 # EcoTravel - Aplicativo de Turismo Sustentável
 
 ## Dupla:
-37023566 PEDRO HENRIQUE BARBOZA DA SILVA
-37023114 JOAB RANIEL RODRIGUES
+- 37023566 PEDRO HENRIQUE BARBOZA DA SILVA
+- 37023114 JOAB RANIEL RODRIGUES
 
 ## Título do Projeto
 EcoTraveler - Protótipo de Aplicativo Informativo sobre Turismo Sustentável!
@@ -14,6 +14,10 @@ Este aplicativo é um **protótipo informativo** desenvolvido em React Native ut
 
 ## Screenshot do Aplicativo
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c00a12a8-5d99-4183-9cc2-96e27a6963f5" />
+<img width="auto" height="768" alt="image" src="https://github.com/user-attachments/assets/a1060a29-b65a-40cb-af05-1facf6805c02" />
+<img width="auto" height="768" alt="image" src="https://github.com/user-attachments/assets/fd7c0013-2a34-4e15-aca8-2ef5c705dcd1" />
+
+
 
 ## Tecnologias Utilizadas
 - React Native
